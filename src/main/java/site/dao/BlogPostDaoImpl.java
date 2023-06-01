@@ -125,7 +125,5 @@ public class BlogPostDaoImpl implements BlogPostDao {
         return rowUpdated;
     }
 
-    // Implement the methods defined in the BlogPostDao interface
-    // ...
 
 }

@@ -13,9 +13,6 @@ import javax.servlet.http.HttpSession;
 import site.dao.*;
 import site.model.*;
 
-/**
- * @email Ramesh Fadatare
- */
 @WebServlet("/register")
 public class UserController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
